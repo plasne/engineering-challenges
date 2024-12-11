@@ -11,6 +11,7 @@ As we are Microsoft engineers, where appropriate assume these are cloud-based so
 ## Challenges
 
 001. [Fast Data Collector](./001-fast-data-collector.md)
+002. [Parallel Processor](./002-parallel-processor.md)
 
 ## Resources
 
