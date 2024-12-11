@@ -35,6 +35,8 @@ Design the storage solution for the catalog adhering to the following requiremen
 
 - Performance: Be able to write a 200 results per second. Be able to read all results in an experiment in 2 seconds or less.
 
+## Considerations
+
 The design should address at least the following:
 
 - How is data partitioned? Why?
